@@ -1,0 +1,33 @@
+body {
+	font-family: Roboto;
+}
+
+.container {
+	padding: 0 20px;
+}
+
+.portf {
+	background-color: #E9ECEF;
+}
+
+.portf h1{
+	font-size: 72px;
+	font-weight: 300;
+}
+
+
+@media (max-width: 576px){
+	.portf h1 {
+		font-size: 48px
+	}
+}
+
+
+.portf p {
+	max-width: 645px;
+	font-size: 16px;
+}
+
+.footer_text h6 {
+	margin: 0;
+}
